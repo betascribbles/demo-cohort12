@@ -2,4 +2,4 @@
 this is a demo project for c12 live learning session on git &amp; github
 
 
-this is a line that was editted in git and we intend to push it tp github.
+this is a line that was editted in git and we intend to push it to github. The error is corrected.
